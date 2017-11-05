@@ -4,22 +4,21 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-            <li>to get our newsletter, send an email to:</li>
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2" align="center">
         <ul class="social-media-list">
           <li>
-            <a href="https://www.facebook.com/SyracuseTango"><span class="icon">{% include icon-facebook.svg %} <span class="username">SyracuseTango</span></a>
+            <a href="https://www.facebook.com/SyracuseTango" target="_blank"><span class="icon">{% include icon-facebook.svg %} <span class="username">SyracuseTango</span></a>
           </li>
         </ul>
       </div>
 
+      <div class="footer-col footer-col-2" align="center">
+      </div>
+
       <div class="footer-col footer-col-3" align="right">
-        <a href="{{ "/feed.xml" | relative_url }}">subscribe to news via RSS</a>
+        <ul class="contact-list">
+            <li>to obtain our newsletter, send an email to:</li>
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        </ul>
       </div>
       
     </div>
