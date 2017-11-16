@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Come and join us on November 11 for our last Milonga in 2017"
-date:   2017-11-04 22:23:50 -0400
----
-On Saturday, Nov 11, at 9pm, we will have our last Milonga this year. A lovely evening of beautiful tango music, dancing, food, wine, and lots of candles! Check out the <a href="https://www.facebook.com/events/146913795927946/" target="_blank">Facebook event</a>.
-
-![Milonga Sentimental November 11, 2017]({{ "/images/Milonga-2017-11-11.jpg" | absolute_url }})
